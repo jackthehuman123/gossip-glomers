@@ -1,0 +1,13 @@
+Online
+Received {id: 1, src: "c1", dest: "n5", body: {type: "init", node_id: "n5", node_ids: ["n1", "n2", "n3", "n4", "n5"], msg_id: 1}}
+Initialized node n5
+Received {id: 24, src: "c13", dest: "n5", body: {echo: "Please echo 122", type: "echo", msg_id: 1}}
+Echoing {echo: "Please echo 122", type: "echo", msg_id: 1}
+Received {id: 44, src: "c13", dest: "n5", body: {echo: "Please echo 51", type: "echo", msg_id: 2}}
+Echoing {echo: "Please echo 51", type: "echo", msg_id: 2}
+Received {id: 46, src: "c13", dest: "n5", body: {echo: "Please echo 97", type: "echo", msg_id: 3}}
+Echoing {echo: "Please echo 97", type: "echo", msg_id: 3}
+Received {id: 48, src: "c13", dest: "n5", body: {echo: "Please echo 104", type: "echo", msg_id: 4}}
+Echoing {echo: "Please echo 104", type: "echo", msg_id: 4}
+Received {id: 50, src: "c13", dest: "n5", body: {echo: "Please echo 16", type: "echo", msg_id: 5}}
+Echoing {echo: "Please echo 16", type: "echo", msg_id: 5}
